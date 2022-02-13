@@ -1,0 +1,8 @@
+.theme-dark {
+  --background-primary: theme(colors.gray.900);
+  --background-secondary: theme(colors.gray.900);
+  --background-secondary-alt: theme(colors.gray.900);
+  --background-tertiary: theme(colors.gray.900);
+  --background-accent: theme(colors.gray.800);
+  --background-floating: theme(colors.gray.900);
+}
